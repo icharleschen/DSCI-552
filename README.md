@@ -8,8 +8,11 @@ This is a foundational course with the primary application to data analytics, bu
 
 ## Homework
 
-| Topic    | Programming | Tags
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+## Project: Transfer Learning for Image Classification
+
+In this problem, we are trying to build a classifier that distinguishes images of 20
+bird species.
+
+| Topic                 | Programming | Tags                                                  | Notes |
+| --------------------- | ----------- | ----------------------------------------------------- | ----- |
+| [Image Classification](./finalproject/Final%20Project.pdf) | [Python](./finalproject/notebook/Final%20Project.ipynb)      | `TensorFlow` `Keras` `OpenCV` `EfficientNetB0` `VGG16`| Due to the large size of the dataset, the images are not included in this repository. |
