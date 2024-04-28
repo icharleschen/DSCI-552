@@ -8,10 +8,12 @@ This is a foundational course with the primary application to data analytics, bu
 
 ## Homework
 
-| Topic                 | Programming | Tags                                                  | Data |
+| Topic                 | Programming | Tags                                                  | Data  |
 | --------------------- | ----------- | ----------------------------------------------------- | ----- |
-| KNN Classification | [Jupyter Notebook](./Homework%201/notebook/HW1.ipynb) | `EDA` `Classification` `KNN`|[Vertebral Column](https://archive.ics.uci.edu/dataset/212/vertebral+column) |
-| Regression | [Jupyter Notebook](./Homework%201/notebook/HW1.ipynb) | `EDA` `Linear Regression` `Multiple Regression` `Hypothesis Testing` `KNN Regression`|[Combined Cycle Power Plant](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant) |
+| [KNN Classification](/Homework%201/Homework1.pdf) | [Jupyter Notebook](/Homework%201/notebook/HW1.ipynb) | `EDA` `Classification` `KNN`|[Vertebral Column](https://archive.ics.uci.edu/dataset/212/vertebral+column) |
+| [Regression](/Homework%202/Homework2.pdf) | [Jupyter Notebook](/Homework%202/notebook/HW2.ipynb) | `Linear Regression` `Multiple Regression` `KNN Regression` `Hypothesis Testing`|[Combined Cycle Power Plant](https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant) |
+| [Time Series Classification](/Homework%203/Homework3.pdf) | [Jupyter Notebook](/Homework%203/notebook/HW3.ipynb) | `Time-domain Features Extraction` `Binary Classification` `Multiclass Classification` `Logistic Regression`|[AReM data](https://archive.ics.uci.edu/dataset/366/activity+recognition+system+based+on+multisensor+data+fusion+arem) |
+| [Time Series Classification](/Homework%203/Homework3.pdf) | [Jupyter Notebook](/Homework%203/notebook/HW3.ipynb) | `Time-domain Features Extraction` `Binary Classification` `Multiclass Classification` `Logistic Regression`|[AReM data](https://archive.ics.uci.edu/dataset/366/activity+recognition+system+based+on+multisensor+data+fusion+arem) |
 
 ## Project: Transfer Learning for Image Classification
 
